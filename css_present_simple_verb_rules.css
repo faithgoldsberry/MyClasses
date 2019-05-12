@@ -1,0 +1,61 @@
+
+
+body {
+  background: linear-gradient(225deg, #2bd9fe 25%, #19647e);
+}
+
+.container {
+  border-radius: 6px;
+  height: auto;
+  margin:0 5em;
+  margin-bottom: 50px;
+
+}
+
+h1 {
+  color: #19647e;
+  font-family: verdana;
+  font-weight:normal;
+  font-size: 1.5em;
+
+}
+
+h2 {
+  color: #ddcecd;
+  padding: 1em;
+  font-family: verdana;
+  font-weight: bold;
+  font-size: 1em;
+}
+
+i {
+    padding-left:10px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  color: #37392e;
+}
+
+td {
+  border: 1px solid #ddcecd;
+  text-align: center;
+  width: 50%;
+  padding: 5px;
+}
+
+th {
+  border: 1px solid #ddcecd;
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #ddcecd;
+}
+
+.ipa_symbols {
+  font-family: times;
+}
